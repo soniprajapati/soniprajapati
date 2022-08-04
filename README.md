@@ -53,7 +53,5 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
+[instagram]: https://www.instagram.com/soni_prajapati15/
 [linkedin]: https://www.linkedin.com/in/soni-prajapati-a69771234/
