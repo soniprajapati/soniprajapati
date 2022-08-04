@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Daughter, Developer and Mentor!!
+## I'm a Developer and Mentor!!
 - 🔭 I’m a self learner.
 - 🌱 I’m currently learning node and mogodb
 - 👯 I’m interested in spending time in coding.
